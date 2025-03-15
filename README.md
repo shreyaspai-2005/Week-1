@@ -1,2 +1,2 @@
 # Week-1
-I've created a First Project on Detecting Plant Diseases using basic AI algorithm
+I've created a First Project on Detecting Plant Diseases but here I'm training and validating dataset and model creation will be in Week-2 repo, which will be in next week....
